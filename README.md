@@ -7,7 +7,7 @@
 ### How to run
 
 - Clone repo
-- Open terminal on repo folder (make sure your are on root of folter or same where `package.json` located).
+- Open terminal on repo folder (make sure your are on root of folder or same where `package.json` located).
 - run `npm i`
 - run `npm start`
 - open [http://localhost:9099](http://localhost:9099)
